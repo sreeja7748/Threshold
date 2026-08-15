@@ -1,4 +1,4 @@
-# 💻🔐 IP Access Control
+# 💻🔐 Threshold
 
 > 🚦 **A lightweight IP-based access control system built with FastAPI**
 
