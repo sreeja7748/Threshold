@@ -78,7 +78,7 @@ Doesn't match allowlist
 # 📁 Project Structure
 
 ```text
-IP_Access_Control/
+Threshold/
 │
 ├── 📄 main.py
 │   └── FastAPI application
